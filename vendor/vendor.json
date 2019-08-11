@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "m8/d6l7hsnPTuVR1u1CP2ycKMPc=",
+			"path": "nomni/utils/eventconsume",
+			"revision": "74d630e246e5aa1820602a41a82448579ac5a5a7",
+			"revisionTime": "2019-07-30T14:56:25Z"
+		}
+	],
+	"rootPath": "ping-kafka-mysql"
+}
